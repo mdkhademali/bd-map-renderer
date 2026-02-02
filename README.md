@@ -1,4 +1,4 @@
-## Bangladesh Map Renderer
+## Map Renderer of Bangladesh
 
 This project visualizes the **map of Bangladesh** on a web page. It loads geographic data of Bangladesh and then plots it on a canvas, adjusting the coordinates so that the entire country fits nicely within the screen. The result is a clean, scaled drawing of Bangladesh that can be used for learning, experimenting, or as a base for more advanced map-based applications.
 
