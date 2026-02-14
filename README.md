@@ -16,16 +16,6 @@ This project visualizes the **map of Bangladesh** on a web page. It loads geogra
 
 ---
 
-## Project Structure
-```
-.
-├── index.html       # Main HTML file
-├── sketch.js        # p5.js sketch for rendering
-└── bangladesh.json  # GeoJSON data (not included)
-```
-
----
-
 ## Preview
 When you run the project, you’ll see a **scaled map of Bangladesh** rendered on canvas.
 
